@@ -2,5 +2,4 @@ add some lignes.
 new content
 Version A and version B
 feature rebase
-publish
-commit but don't push
+merge and publish
